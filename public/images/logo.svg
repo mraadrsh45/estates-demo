@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="100" r="100" fill="white"/>
+  <text x="100" y="85" text-anchor="middle" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="#1a2a4a">W</text>
+  <text x="100" y="125" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1a2a4a" letter-spacing="6">WRE</text>
+  <line x1="40" y1="140" x2="160" y2="140" stroke="#C6A15B" stroke-width="1.5"/>
+  <text x="100" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#C6A15B" letter-spacing="3">WESTERN</text>
+</svg>
